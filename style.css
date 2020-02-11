@@ -1,0 +1,47 @@
+/* header section start*/
+header{
+    background-color: yellowgreen;
+    padding: 20px;
+    margin-bottom: 2%;
+    text-align: center;
+/*    header section end*/
+}
+.div1{
+    height:400px;
+    width:20%;
+    background-color: green;
+    float: left;
+    overflow: hidden;
+    
+    
+        
+}
+.div2{
+    height:400px;
+    width:55%;
+    background-color:blueviolet;
+    float: left;
+    margin-left:2.5%;
+    overflow: hidden;
+}
+.div3{
+    height:400px;
+    width:20%;
+    background-color:brown;
+    float: left;
+    margin-left:2.5%;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+section{
+    text-align: center;
+}
+
+/* footer section start*/
+footer{
+    background-color:gray;
+    padding:20px; 
+    text-align:center;
+    overflow: hidden;
+    }
+/* footer section end*/
